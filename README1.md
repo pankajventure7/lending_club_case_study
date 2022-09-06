@@ -9,9 +9,9 @@ Identification of such applicants using EDA is the aim of this case study.
 ## Table of Contents
 * [General Info]- to analyze and prevent them from loan request done by the customer side who are defaulter .
 
-* [Technologies Used] 
+* [PROCESS DONE] 
          
-#### Step 1: Data Cleaning 1  
+#### Step 1: Data Cleaning 1                           
 #### Step 2: Univariate Analysis
 #### Step 3: Segemented Univariate Analysis
 #### Step 4: Bivaraiate/Multivariate Analysis
@@ -70,4 +70,4 @@ Created by
 [@pankajventure7] 
 [@raj007kumar] 
 
-#### Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIT,Bangalore.
+#### Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
