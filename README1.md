@@ -67,7 +67,7 @@ Give credit here.
 
 ## Contact
 Created by
-@pankajventure7
+@pankajventure7,
 @raj007kumar
 
 #### Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
