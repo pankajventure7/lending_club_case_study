@@ -1,15 +1,15 @@
 # Project name - LENDING CLUB CASE STUDY
 
-> Outline a brief description of your project.\
+> Outline a brief description of your project.
 
   - The main objective is to be able to identify these risky loan applicants, 
 then such loans can be reduced thereby cutting down the amount of credit loss. 
 Identification of such applicants using EDA is the aim of this case study.   
 
 ## Table of Contents
-* [General Info]- to analyze and prevent them from loan request done by the customer side who are defaulter .
+* General Info- to analyze and prevent them from loan request done by the customer side who are defaulter .
 
-* [PROCESS DONE] 
+* PROCESS DONE 
          
 #### Step 1: Data Cleaning 1                           
 #### Step 2: Univariate Analysis
@@ -18,7 +18,7 @@ Identification of such applicants using EDA is the aim of this case study.
 #### Step 5: Results                                    
 
 
-* [Conclusions]- with this information we will analyze which particular group are more in defaulter and likely to pay loan interest late.
+* Conclusions- with this information we will analyze which particular group are more in defaulter and likely to pay loan interest late.
 
 
 
@@ -26,15 +26,15 @@ Identification of such applicants using EDA is the aim of this case study.
 
 ## General Information
 - Provide general information about your project here.
- 1. to find out defaulter in dataset
- 2. how to prevent from loan request done by the customer side who are defaulter
+ 1. To find out defaulter in dataset
+ 2. How to prevent from loan request done by the customer side who are defaulter
 
 - What is the background of your project?
- 1. analyze the backgorund to prevent loan request in future.
- 2.help to lending partner that  can analyze the backgorund who are defaulter as well non-defaulter
+ 1.Analyze the backgorund to prevent loan request in future.
+ 2.Help to lending partner that  can analyze the backgorund who are defaulter as well non-defaulter
 
 - What is the business probem that your project is trying to solve?
- 1. to find out defaulter who moslty defaulted loan every time and block there id so they can request for loan in future
+ 1. To find out defaulter who moslty defaulted loan every time and block there id so they can request for loan in future
 - What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -67,7 +67,7 @@ Give credit here.
 
 ## Contact
 Created by
-[@pankajventure7] 
-[@raj007kumar] 
+@pankajventure7
+@raj007kumar
 
 #### Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
